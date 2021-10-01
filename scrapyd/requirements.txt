@@ -72,3 +72,4 @@ websocket-client==1.2.1
 zope.interface==5.4.0
 scrapy-selenium==0.0.7
 scrapy-redis==0.7.1
+scrapy-deltafetch==2.0.1
